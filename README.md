@@ -1,6 +1,6 @@
 # Python Learning Journey 🐍
 
-Welcome to my Python repository! This repository documents my day-by-day progress, practice exercises, and code snippets as I build and strengthen my core Python programming skills—ranging from basic syntax to advanced concepts.
+Welcome to my Python repository! This repository documents my day-by-day progress and code snippets as I build and strengthen my core Python programming skills—ranging from basic syntax to advanced concepts.
 
 ---
 
